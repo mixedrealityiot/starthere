@@ -8,11 +8,11 @@ The goal of this site is to demonstrate the power of combining mixed reality wit
 
 # Repos
 
-## [ODB-II_MQTT_HoloLens](https://github.com/mixedrealityiot/ODB-II_MQTT_HoloLens/tree/master)
+## [OBD-II_MQTT_HoloLens](https://github.com/mixedrealityiot/OBD-II_MQTT_HoloLens)
 
-This repo contains a prototype that demonstrates how to stream a vehicle's ODB-II data to HoloLens using MQTT, without sending the data to the cloud.
+This repo contains a prototype that demonstrates how to stream a vehicle's OBD-II data to HoloLens using MQTT, without sending the data to the cloud.
 
-The prototype demonstrates the use case of a vehicle mechanic diagnosing vehicle issues using ODB-II data streamed to a HoloLens application.
+The prototype demonstrates the use case of a vehicle mechanic diagnosing vehicle issues using OBD-II data streamed to a HoloLens application.
 
 # Who are we?
 
