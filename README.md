@@ -18,7 +18,10 @@ The prototype demonstrates the use case of a vehicle mechanic diagnosing vehicle
 
 ## Steven Vi
 
-ToDo
+Steven Vi is a software developer specializing in XR technologies. He has experience developing new applications for Augmented, Mixed, and Virtual reality devices, working with industry partners on R&D projects to develop creative solutions, and conducting Human Computer Interactions research. 
+
+- Website: [http://www.stevenvi.com/](http://www.stevenvi.com/)
+- LinkedIn: [https://www.linkedin.com/in/steven-vi/](https://www.linkedin.com/in/steven-vi/)
 
 ## Kevin Hilscher
 
