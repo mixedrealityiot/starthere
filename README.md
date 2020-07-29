@@ -29,3 +29,9 @@ Kevin Hilscher is an Azure IoT Architect at Microsoft, working with top partners
 
 - Twitter: [@khilscher](https://twitter.com/khilscher)
 - LinkedIn: [https://www.linkedin.com/in/kevinhilscher/](https://www.linkedin.com/in/kevinhilscher/)
+
+## Lycus Woo
+
+Lycus Woo is an Azure IoT Architect at Mirosoft, helping customers to digital transform with IoT, and working with strategic partners to build cutting edge IoT solutions - spanning across Hardware, Firmware/Software, and Cloud Architecture design. 
+
+- LinkedIn: [https://www.linkedin.com/in/lycusclwoo/](https://www.linkedin.com/in/lycusclwoo/)
